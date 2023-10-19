@@ -1,3 +1,4 @@
+import allure
 import requests
 import pytest
 from selenium import webdriver

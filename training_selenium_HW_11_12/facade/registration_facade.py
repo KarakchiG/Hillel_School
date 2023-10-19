@@ -1,3 +1,5 @@
+import allure
+
 from training_selenium_HW_11_12.facade.base_facade import BaseFacade
 
 
